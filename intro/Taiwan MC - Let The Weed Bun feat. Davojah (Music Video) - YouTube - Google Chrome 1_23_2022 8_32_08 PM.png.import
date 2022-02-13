@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Taiwan MC - Let The Weed Bun feat. Davojah (Music Video) - YouTube - Google Chrome 1_23_2022 8_32_08 PM.png-840ca5274cde93aa20fae712a89cd90c.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://intro/Taiwan MC - Let The Weed Bun feat. Davojah (Music Video) - YouTube - Google Chrome 1_23_2022 8_32_08 PM.png"
+dest_files=[ "res://.import/Taiwan MC - Let The Weed Bun feat. Davojah (Music Video) - YouTube - Google Chrome 1_23_2022 8_32_08 PM.png-840ca5274cde93aa20fae712a89cd90c.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
